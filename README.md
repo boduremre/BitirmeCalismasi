@@ -1,2 +1,2 @@
-# BitirmeCalismasi
+# Bitirme Calışması
 BSM 498 Bitirme Çalışması Dersi
