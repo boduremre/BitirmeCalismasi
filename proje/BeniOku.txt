@@ -1,0 +1,3 @@
+soruhavuzu\application\config klasörü altındaki config.php dosyasında $config['base_url'] = 'http://localhost/soruhavuzu/'; olarak ayarlanmalıdır.
+soruhavuzu\sql klasörü altındaki son tarihli sql dosyası phpmyadmin aracılığıyla veritabanına import edilmelidir.
+soruhavuzu\application\config klasörü altındaki database.php dosyasında mysql ile ilgili ayarlar düzenlenmelidir.
