@@ -1,4 +1,4 @@
-# Bitirme Calışması
+# Bitirme Çalışması
 BSM 498 Bitirme Çalışması Dersi kapsamında geliştirilen Soru Havuzu Yazılımının Geliştirilmesi" konulu bitirme çalışmasına ait dokümanları ve proje kaynak kodlarını içerir. 
 ### ÖZET
 Anahtar kelimeler: Soru Havuzu, Soru Bankası, Çevrimiçi Sınav Sistemi<br><br>
