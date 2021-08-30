@@ -1,3 +1,24 @@
 soruhavuzu\application\config klasörü altındaki config.php dosyasında $config['base_url'] = 'http://localhost/soruhavuzu/'; olarak ayarlanmalıdır.
 soruhavuzu\sql klasörü altındaki son tarihli sql dosyası phpmyadmin aracılığıyla veritabanına import edilmelidir.
 soruhavuzu\application\config klasörü altındaki database.php dosyasında mysql ile ilgili ayarlar düzenlenmelidir.
+
+GitHub Repo Adresi
+https://github.com/boduremre/BitirmeCalismasi
+
+Youtube Sunum Video Adresi
+https://youtu.be/50xJPBHV6M4
+
+Proje Web Sitesi ve Kullanıcı Bilgileri
+http://soruhavuzu.emrebodur.com/index.php/login
+
+Öğretmen Rolü için (Sadece kendi sorularını görebilir. Sadece soru yazıp kaydedebilir. Profilini günceller.);
+Kullanıcı Adı: elifbodur
+Şifre: 4917
+
+Uzman Rolü için (Tüm soruları görebilir. Soruları inceler onaylar, düzenler veya düzeltmeye gönderir. Soru yazabilir. Profilini günceller.);
+Kullanıcı Adı: emrebodur
+Şifre: 4917
+
+Yönetici Rolü için (Uzman rolünün yapabildiklerini yapar. İlaveten kullanıcı ve rol işlemlerini yapar. Duyuru ekler. Ayarları düzenler.);
+Kullanıcı Adı: admin
+Şifre: 4917
